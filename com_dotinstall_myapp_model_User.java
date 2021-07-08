@@ -1,6 +1,6 @@
 package com.dotinstall.myapp.model;
 
-class User {
+public class User {
   protected String name;
 
   public User(String name) {
